@@ -1,2 +1,2 @@
-# main
+# Data Structures
 Data-Structures
